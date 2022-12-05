@@ -30,9 +30,9 @@ github_username:  jekyll
 show_downloads: true
 
 # Build settings
-remote_theme: pages-themes/dinky@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme 
+  - jekyll-feed
 # add this line to the plugins list if you already have one
 # Exclude from processing.
 # The following items will not be processed, by default.
