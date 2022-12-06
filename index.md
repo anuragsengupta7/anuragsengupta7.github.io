@@ -2,25 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+AEM Reusable component repository designed for specific **Industry**
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Checkout our repository, download ready to use code packages.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+We will update this section shortly
 
-# Header 1
+# Life Sciences
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Financial Services
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### How to clone
 
 ```js
 // Javascript code with syntax highlighting.
